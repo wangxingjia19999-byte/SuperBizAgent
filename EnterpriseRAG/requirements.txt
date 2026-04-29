@@ -1,0 +1,33 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# 向量数据库
+chroma==0.4.18
+chromadb==0.4.18
+
+# 文档处理
+PyMuPDF==1.23.8
+python-docx==0.8.11
+unstructured==0.12.5
+markdown==3.5.1
+
+# 大语言模型和 Embedding
+openai==1.3.8
+langchain==0.1.1
+langchain-openai==0.0.2
+langchain-community==0.0.3
+
+# 工具库
+requests==2.31.0
+numpy==1.24.3
+beautifulsoup4==4.12.2
+pandas==2.1.3
+
+# 其他
+python-jose==3.3.0
+passlib==1.7.4
+cryptography==41.0.7
